@@ -1,2 +1,2 @@
-# YOLOv10
+# YOLOv10 Upcoming soon...
 You only look once version 10.
